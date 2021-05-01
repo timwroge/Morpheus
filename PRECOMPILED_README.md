@@ -15,3 +15,9 @@ there for the next state in time. Now here is the controversial bit- the current
 state would actually be a dream of the next possible second, and the state would be cleared away whenever
 the system increments the subsequent state. The agent would actually react to the predicted state and not
 the direct sensory inputs.
+
+
+# Architecture
+The basic model architecture is shown in the picture below:
+
+![morpheus model](./doc/Morpheus.png "Architecture" ) 
